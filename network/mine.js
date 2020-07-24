@@ -18,7 +18,7 @@ export function getUserInfo(){
 // export function unCode(a){
 // 	return uni.request({
 // 		method: 'GET',
-// 		url: 'https://api.weixin.qq.com/sns/jscode2session?appid=wx8530b4eb193eff63&secret=307bbc91909a2d860a1b1212df1463f2&grant_type=authorization_code&js_code=' + a
+// 		url: 
 // 	})
 // }
 
