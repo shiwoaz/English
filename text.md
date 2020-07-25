@@ -35,9 +35,6 @@ http://common.api.en8848.com/api/book POST/GET
 http://common.api.en8848.com/api/classlist POST
 cid=9065
 
-docker run -it --name my1 -p 3307:3306 -v /docker/lnmp/mys:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=PXh12138 mysql
 
-CREATE USER 'root'@'%' IDENTIFIED BY 'PXh12138';
-ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'PXh12138';
 
 ## 
